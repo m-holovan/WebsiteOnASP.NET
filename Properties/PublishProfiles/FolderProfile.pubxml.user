@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\SiteOnASP.NET Core\MyCompany</_PublishTargetUrl>
+    <History>True|2022-07-01T01:26:40.3854530Z;True|2022-07-01T04:24:39.3535838+03:00;</History>
+  </PropertyGroup>
+</Project>
